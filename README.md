@@ -2,7 +2,7 @@
 
 ![Build Status](https://img.shields.io/circleci/build/github/augustindlt/react-only-html-props)
 [![Coverage Status](https://coveralls.io/repos/github/augustindlt/react-only-html-props/badge.svg?branch=master)](https://coveralls.io/github/augustindlt/react-only-html-props?branch=master)
-[![NPM Version](https://img.shields.io/npm/v/wizhooks)](https://www.npmjs.com/package/react-only-html-props)
+[![NPM Version](https://img.shields.io/npm/v/react-only-html-props)](https://www.npmjs.com/package/react-only-html-props)
 
 ohp allows to filter props to get only the react html props.
 
