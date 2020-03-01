@@ -1,0 +1,34 @@
+{
+  "name": "react-only-html-props",
+  "version": "1.0.0",
+  "description": "ohp allows to filter props to get only the react html props.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "ttsc -p .",
+    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls"
+  },
+  "author": "Augustin de Latrollière",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:augustindlt/react-only-html-props.git"
+  },
+  "bugs": {
+    "url": "https://github.com/augustindlt/react-only-html-props/issues"
+  },
+  "homepage": "https://github.com/augustindlt/react-only-html-props#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.23",
+    "coveralls": "^3.0.9",
+    "jest": "^25.1.0",
+    "react": "^16.13.0",
+    "ts-transformer-keys": "^0.4.1",
+    "ttypescript": "^1.5.10",
+    "typescript": "^3.8.3"
+  }
+}
