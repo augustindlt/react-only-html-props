@@ -2,7 +2,7 @@
   "name": "react-only-html-props",
   "version": "1.0.0",
   "description": "ohp allows to filter props to get only the react html props.",
-  "main": "./src/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "jest",
     "build": "ttsc -p .",
